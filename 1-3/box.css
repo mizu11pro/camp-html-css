@@ -1,0 +1,26 @@
+.box1{
+  width:300px;
+  height:300px;
+  background-color:rgb(202, 14, 240);
+  margin:30px;
+  padding:30px;
+}
+.box2{
+  width:100px;
+  height:100px;
+  background-color:#0000ff;
+  border:5px solid yellow;
+}
+.box3{
+  width:200px;
+  height:200px;
+  background-color:green;
+  margin-left:30px;
+  margin-top:30px;
+}
+.line1{
+  width:100px;
+  height:100px;
+  background-color:silver;
+  border:2px dashed gold;
+}
